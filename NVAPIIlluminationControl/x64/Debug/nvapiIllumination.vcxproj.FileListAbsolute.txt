@@ -1,2 +1,3 @@
 C:\Users\Jordan Wills\source\repos\nvapiIllumination\x64\Debug\nvapiIllumination.exe
 C:\Users\Jordan Wills\source\repos\NVAPIIlluminationControl\x64\Debug\NVAPIIlluminationControl.exe
+C:\Users\Jordan Wills\NvAPIIlluminationMaster\NVAPIIlluminationControl\x64\Debug\NVAPIIlluminationControl.exe

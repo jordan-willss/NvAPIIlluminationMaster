@@ -1,4 +1,5 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (nvapiIllumination.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   main.cpp
-C:\Users\Jordan Wills\source\repos\NVAPIIlluminationControl\main.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
-  nvapiIllumination.vcxproj -> C:\Users\Jordan Wills\source\repos\NVAPIIlluminationControl\x64\Debug\NVAPIIlluminationControl.exe
+C:\Users\Jordan Wills\NvAPIIlluminationMaster\NVAPIIlluminationControl\main.cpp(64,27): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\Jordan Wills\NvAPIIlluminationMaster\NVAPIIlluminationControl\x64\Debug\NVAPIIlluminationControl.lib and object C:\Users\Jordan Wills\NvAPIIlluminationMaster\NVAPIIlluminationControl\x64\Debug\NVAPIIlluminationControl.exp
+  nvapiIllumination.vcxproj -> C:\Users\Jordan Wills\NvAPIIlluminationMaster\NVAPIIlluminationControl\x64\Debug\NVAPIIlluminationControl.exe
